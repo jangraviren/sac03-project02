@@ -81,4 +81,4 @@ To implement the above architecture, we need to follow the steps outlined below:
 
 3. Create an AWS CloudFormation template in YAML or JSON format that defines all the necessary AWS resources, including EC2 instances for the live and development/test WordPress environments, Amazon RDS for the database, Auto Scaling Group for the development instance (if needed), security groups, CloudWatch Alarms, and other components. Parameterize the template to allow customization of instance types, security group rules, database settings, and other configurable options.
 
-# ami-03826e81533d65fcb
+# ami-053b0d53c279acc90
